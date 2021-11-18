@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 2em;
+}
+h1{
+    font-size: 5.625rem;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #5cbebe;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #5cbebe;
+    font-weight: bold;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #0b7a7e;
+} 
+.top-container{
+    background-color: #c0d8e4;
+    position: relative;
+    padding-top: 100px;
+}
+
+.cloud-top{
+    position: absolute;
+    right:300px;
+    top:50px;
+
+}
+.cloud-btm{
+    position: absolute;
+    left:300px;
+    bottom: 300px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align:left;
+}
+
+.skill{
+    width: 30%;
+}
+.middle-container{
+    background-color: #FEFBF3;
+}
+
+a{
+    color: #11999E;
+    text-decoration: none;
+}
+
+.bottom-container{
+    background-color: #F8F0DF;
+}
+
+.profile{
+    width: 50%;
+    margin: 100px auto;
+}
+.box{
+    display: inline-block;
+}
