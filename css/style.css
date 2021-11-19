@@ -40,7 +40,7 @@ h3{
 
 .skill-row{
     width: 50%;
-    margin: 100px auto;
+    margin: 150px auto;
     text-align:left;
 }
 
@@ -99,7 +99,8 @@ hr{
 .img{
     background-color: rgba(19, 79, 94, 0.5);
     padding: 10px;
-    border-radius: 100%;   
+    border-radius: 100%;  
+    margin: 0 2%; 
 }
 
 .btn {
